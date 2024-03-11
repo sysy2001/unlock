@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e7dd09a350bc40c586bb4cafb22ac16, type: 3}
+  m_Name: BedText
+  m_EditorClassIdentifier: 
+  dialogue:
+  - You found a comfy bed but you can't rest on it. It's your client's bed.
+  - Under the pillow, you found a notebook.
+  - Your client just gave you permission to read it for your investigation.
+  - 'On July 23rd, 2023. It says: 1984 might be my favourite book.  I''ve read it
+    twice before'
+  - and I just finished reading it again today!

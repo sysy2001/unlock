@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 1225334285
+    locked: 0
+  - name: background-wall
+    uniqueID: 1797315591
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: book-on-table
+    uniqueID: 2861919049
+    locked: 0
+  - name: UI
+    uniqueID: 2352823593
+    locked: 0

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e7dd09a350bc40c586bb4cafb22ac16, type: 3}
+  m_Name: CalenderText
+  m_EditorClassIdentifier: 
+  dialogue:
+  - You found a calender of year 2023.
+  - There are only a few pages left. Mar...Nov...Dec..
+  - 'On Mar 1st, it says: Birthday! Feeling lucky.'
+  - On Nov 23rd, it says seven year adoption anniversary with Charlie<3
+  - 'On Dec 25th, it says: Spent a great time with family. Got a lot of books as
+    presents.'
